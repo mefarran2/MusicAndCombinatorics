@@ -1,11 +1,12 @@
 # MusicAndCombinatorics
  
-Output from main class:
+## Output from main class:
 
 All scales, no restrictions: 
 Total number: 162
 
 [C, D1, E1, F1, G, A1, B1]	[C, D1, E1, F1, G, A1, B2]	[C, D1, E1, F1, G, A1, B3]	[C, D1, E1, F1, G, A2, B1]
+
 [C, D1, E1, F1, G, A2, B2]	[C, D1, E1, F1, G, A2, B3]	[C, D1, E1, F1, G, A3, B1]	[C, D1, E1, F1, G, A3, B2]
 [C, D1, E1, F1, G, A3, B3]	[C, D1, E1, F2, G, A1, B1]	[C, D1, E1, F2, G, A1, B2]	[C, D1, E1, F2, G, A1, B3]
 [C, D1, E1, F2, G, A2, B1]	[C, D1, E1, F2, G, A2, B2]	[C, D1, E1, F2, G, A2, B3]	[C, D1, E1, F2, G, A3, B1]
